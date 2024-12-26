@@ -7,3 +7,4 @@ Author: Logvinov Lev Anatolievich
 Lab: Lab3
 Date of create: 20.09.2024
 Date of finished: 31.09.2024
+
