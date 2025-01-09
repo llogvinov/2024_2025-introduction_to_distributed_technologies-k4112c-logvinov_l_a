@@ -125,4 +125,4 @@ minikube kubectl -- port-forward service/lab4-service 3000:3000
 ![](ping2.jpg)
 
 ### Схема организации контейнеров и сервисов
-![](./img/image_10.png)
+![](schema.jpg)

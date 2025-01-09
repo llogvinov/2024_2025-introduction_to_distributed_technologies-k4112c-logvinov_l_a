@@ -128,4 +128,4 @@ minikube kubectl -- apply -f ingress.yaml
 ![](ssl.jpg)
 
 ### Схема организации контейнеров и сервисов
-![](./img/image_10.png)
+![](schema.jpg)
